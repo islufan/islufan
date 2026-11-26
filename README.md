@@ -28,3 +28,5 @@
 **成果**　参与科研项目 10 项（含横向课题 2 项）· 软件著作权 4 项 · 实用新型专利 1 项
 
 **技能**　嵌入式软硬件开发 · 电路与 PCB 设计 · 机械三维建模 · 计算机视觉算法 · GPU / CPU 编程 · AI for Coding
+
+**开源**　[icm42688p-driver](https://github.com/islufan/icm42688p-driver) — ICM-42688-P 六轴 IMU 驱动，平台无关总线，Keil / GCC / MSVC 三工具链验证
