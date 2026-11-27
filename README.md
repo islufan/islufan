@@ -11,6 +11,7 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)](https://www.st.com/)
 [![PCB](https://img.shields.io/badge/PCB-2E7D32?style=flat-square)](https://en.wikipedia.org/wiki/Printed_circuit_board)
+[![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white)](https://www.solidworks.com/)
 [![GPU%2FCPU](https://img.shields.io/badge/GPU%20%2F%20CPU-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 [![AI%20for%20Coding](https://img.shields.io/badge/AI%20for%20Coding-412991?style=flat-square)](https://github.com/features/copilot)
 [![数学建模](https://img.shields.io/badge/Math%20Modeling-1F6FEB?style=flat-square)](https://en.wikipedia.org/wiki/Mathematical_model)
