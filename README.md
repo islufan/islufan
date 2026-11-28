@@ -30,4 +30,4 @@
 
 **技能**　嵌入式软硬件开发 · 电路与 PCB 设计 · 机械三维建模 · 计算机视觉算法 · GPU / CPU 编程 · AI for Coding
 
-**开源**　[icm42688p-driver](https://github.com/islufan/icm42688p-driver)（ICM-42688-P 六轴 IMU）· [mmc5983ma-driver](https://github.com/islufan/mmc5983ma-driver)（MMC5983MA 三轴磁力计）· [spl06001-driver](https://github.com/islufan/spl06001-driver)（SPL06-001 气压 / 温度）—— 均为平台无关总线、mock 单测、CI 验证
+**开源**　[icm42688p-driver](https://github.com/islufan/icm42688p-driver)（ICM-42688-P 六轴 IMU）· [mmc5983ma-driver](https://github.com/islufan/mmc5983ma-driver)（MMC5983MA 三轴磁力计）· [spl06001-driver](https://github.com/islufan/spl06001-driver)（SPL06-001 气压 / 温度）· [icp10111-driver](https://github.com/islufan/icp10111-driver)（ICP-10111 气压 / 温度）—— 均为平台无关总线、mock 单测、CI 验证
